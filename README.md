@@ -6,8 +6,8 @@ https://pets-house-albert-sagol.netlify.app/list
 
 Front-end React app, made with typescript and styled components, full tested and build to work with a API and manage a list of Pets and their information, with two user tiers.
 
-Tier User: Only have the acces to the list and pets information
-Tier Admin: They have the same access as users and can also create, edit and delete the pets.
+- Tier User: Only have the acces to the list and pets information
+- Tier Admin: They have the same access as users and can also create, edit and delete the pets.
 
 ### App components
 
